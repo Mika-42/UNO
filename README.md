@@ -1,0 +1,37 @@
+<h1>UNO</h1>
+
+![image](https://github.com/Mika-42/UNO/assets/95251210/87dd0017-864e-444e-995d-e7ac7ddc5b58)
+
+<p>This is a small, paired class project in which you choose a deck of cards and code it.<br>
+During the game, you'll enjoy a marimba remix of Never Give You Up.</p>
+
+![compte rendu_page-0001](https://github.com/Mika-42/UNO/assets/95251210/0a9df5e0-7ede-4975-9c2f-8cc3b0dc032f)
+![compte rendu_page-0002](https://github.com/Mika-42/UNO/assets/95251210/c68bf5c4-de00-4fbd-bb5f-42964f69d99e)
+![compte rendu_page-0003](https://github.com/Mika-42/UNO/assets/95251210/8da8aa55-e5a5-4885-b198-f836f81ab0c0)
+![compte rendu_page-0004](https://github.com/Mika-42/UNO/assets/95251210/741b509e-e6d5-4ecd-9b50-613fdf02d272)
+![compte rendu_page-0005](https://github.com/Mika-42/UNO/assets/95251210/054cac7a-dc53-4899-a851-184fdc804d62)
+![compte rendu_page-0006](https://github.com/Mika-42/UNO/assets/95251210/6a82ab8e-ecb8-4874-b3ab-9f7469d0e339)
+![compte rendu_page-0007](https://github.com/Mika-42/UNO/assets/95251210/e323eccc-3e3b-4fc7-b808-c3440a4e09bd)
+![compte rendu_page-0008](https://github.com/Mika-42/UNO/assets/95251210/5d7791ec-ced7-4df8-b2ba-73be976f34f1)
+![compte rendu_page-0009](https://github.com/Mika-42/UNO/assets/95251210/2b4d1056-93b9-40ae-bfd4-f763aac39926)
+![compte rendu_page-0010](https://github.com/Mika-42/UNO/assets/95251210/d84d5bc8-6310-4359-bbee-2dc80bbe31fd)
+![compte rendu_page-0011](https://github.com/Mika-42/UNO/assets/95251210/9ac13d9a-0f3e-417b-bae1-a424815a1d36)
+![compte rendu_page-0012](https://github.com/Mika-42/UNO/assets/95251210/bda0a236-1106-442c-8aaa-6ddea25eb4c0)
+![compte rendu_page-0013](https://github.com/Mika-42/UNO/assets/95251210/67413ad5-31df-4408-94e2-ecac80b31a4d)
+![compte rendu_page-0014](https://github.com/Mika-42/UNO/assets/95251210/35e6295a-c168-4351-8a16-3a17c4b4f8f9)
+![compte rendu_page-0015](https://github.com/Mika-42/UNO/assets/95251210/fc6e0ad3-36ac-48d9-aa39-1f56a3e976e3)
+![compte rendu_page-0016](https://github.com/Mika-42/UNO/assets/95251210/b510d856-7e27-4671-a280-f6f950027538)
+![compte rendu_page-0017](https://github.com/Mika-42/UNO/assets/95251210/8f6722b7-804b-49c5-ba83-7f0c9c98c2bc)
+![compte rendu_page-0018](https://github.com/Mika-42/UNO/assets/95251210/37a0ab45-2aa8-4c2d-bf34-588ff60dd8f4)
+![compte rendu_page-0019](https://github.com/Mika-42/UNO/assets/95251210/5bae3151-8ed3-47ac-b0cb-aa1d3150c2cb)
+![compte rendu_page-0020](https://github.com/Mika-42/UNO/assets/95251210/3d96ac0f-3fb7-42ea-8d17-0e35eae98e54)
+![compte rendu_page-0021](https://github.com/Mika-42/UNO/assets/95251210/33a66f3a-b1ff-4497-8452-f90e7fdbbe0f)
+![compte rendu_page-0022](https://github.com/Mika-42/UNO/assets/95251210/111c719c-936c-41d3-8378-bf29b7740077)
+![compte rendu_page-0023](https://github.com/Mika-42/UNO/assets/95251210/fd40cd74-2429-4501-ba56-22a1cd791bb3)
+![compte rendu_page-0024](https://github.com/Mika-42/UNO/assets/95251210/60f49413-04d0-4cde-a239-98abe313d54b)
+![compte rendu_page-0025](https://github.com/Mika-42/UNO/assets/95251210/bec15977-cd22-4c5f-8604-20914c259006)
+![compte rendu_page-0026](https://github.com/Mika-42/UNO/assets/95251210/45df27ca-4ea3-4b5e-af98-0cc4da550821)
+![compte rendu_page-0027](https://github.com/Mika-42/UNO/assets/95251210/1b6f20f7-c1d2-40e3-bc18-7bacc10a4fc3)
+![compte rendu_page-0028](https://github.com/Mika-42/UNO/assets/95251210/c4888799-13af-4d56-883d-d61c83e4af72)
+![compte rendu_page-0029](https://github.com/Mika-42/UNO/assets/95251210/a303c099-3419-40dd-87eb-7e06945010e0)
+![compte rendu_page-0030](https://github.com/Mika-42/UNO/assets/95251210/f20538bf-ef41-4566-b98a-3c9f0420d3e8)
